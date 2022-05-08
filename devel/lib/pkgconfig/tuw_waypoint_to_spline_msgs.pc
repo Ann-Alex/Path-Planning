@@ -1,0 +1,8 @@
+prefix=/home/alvina/new_proj/devel
+
+Name: tuw_waypoint_to_spline_msgs
+Description: Description of tuw_waypoint_to_spline_msgs
+Version: 0.0.0
+Cflags: -I/home/alvina/new_proj/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

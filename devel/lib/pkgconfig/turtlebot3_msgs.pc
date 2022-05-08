@@ -1,0 +1,8 @@
+prefix=/home/alvina/new_proj/devel
+
+Name: turtlebot3_msgs
+Description: Description of turtlebot3_msgs
+Version: 1.0.1
+Cflags: -I/home/alvina/new_proj/devel/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs message_runtime

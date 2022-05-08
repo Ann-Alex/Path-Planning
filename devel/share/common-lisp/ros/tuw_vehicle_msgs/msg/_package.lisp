@@ -1,0 +1,25 @@
+(cl:defpackage tuw_vehicle_msgs-msg
+  (:use )
+  (:export
+   "<AUTONOMOUSSTATE>"
+   "AUTONOMOUSSTATE"
+   "<BATTERYSTATE>"
+   "BATTERYSTATE"
+   "<CHASSISSTATE>"
+   "CHASSISSTATE"
+   "<CMDMPCVECVPHI>"
+   "CMDMPCVECVPHI"
+   "<RWDCONTROL>"
+   "RWDCONTROL"
+   "<RWDKINCMD>"
+   "RWDKINCMD"
+   "<RWDMOTION>"
+   "RWDMOTION"
+   "<TRACK>"
+   "TRACK"
+   "<TRACKMARKING>"
+   "TRACKMARKING"
+   "<WHEELSPEEDS>"
+   "WHEELSPEEDS"
+  ))
+

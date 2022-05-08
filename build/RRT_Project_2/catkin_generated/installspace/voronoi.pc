@@ -1,0 +1,8 @@
+prefix=/home/alvina/new_proj/install
+
+Name: voronoi
+Description: Description of voronoi
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

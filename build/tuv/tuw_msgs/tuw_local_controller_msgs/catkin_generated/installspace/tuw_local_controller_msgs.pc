@@ -1,0 +1,8 @@
+prefix=/home/alvina/new_proj/install
+
+Name: tuw_local_controller_msgs
+Description: Description of tuw_local_controller_msgs
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

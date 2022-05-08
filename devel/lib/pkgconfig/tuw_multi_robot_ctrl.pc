@@ -1,0 +1,8 @@
+prefix=/home/alvina/new_proj/devel
+
+Name: tuw_multi_robot_ctrl
+Description: Description of tuw_multi_robot_ctrl
+Version: 0.0.0
+Cflags: -I/home/alvina/new_proj/src/tuv/tuw_multi_robot/tuw_multi_robot_ctrl/include
+Libs: -L${prefix}/lib -ltuw_multi_robot_ctrl
+Requires: geometry_msgs roscpp std_msgs

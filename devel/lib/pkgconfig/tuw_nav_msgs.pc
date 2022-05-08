@@ -1,0 +1,8 @@
+prefix=/home/alvina/new_proj/devel
+
+Name: tuw_nav_msgs
+Description: Description of tuw_nav_msgs
+Version: 0.0.13
+Cflags: -I/home/alvina/new_proj/devel/include -I/home/alvina/new_proj/src/tuv/tuw_msgs/tuw_nav_msgs/include
+Libs: -L${prefix}/lib -ltuw_nav_msgs
+Requires: tf message_runtime std_msgs tuw_geometry_msgs nav_msgs

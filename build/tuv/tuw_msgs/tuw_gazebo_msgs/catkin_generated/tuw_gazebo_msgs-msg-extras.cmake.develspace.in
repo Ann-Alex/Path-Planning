@@ -1,0 +1,2 @@
+set(tuw_gazebo_msgs_MESSAGE_FILES "/home/alvina/new_proj/src/tuv/tuw_msgs/tuw_gazebo_msgs/msg/Measure.msg;/home/alvina/new_proj/src/tuv/tuw_msgs/tuw_gazebo_msgs/msg/JointsMeasureI4ws.msg;/home/alvina/new_proj/src/tuv/tuw_msgs/tuw_gazebo_msgs/msg/JointCmd.msg;/home/alvina/new_proj/src/tuv/tuw_msgs/tuw_gazebo_msgs/msg/JointsCmdI4ws.msg;/home/alvina/new_proj/src/tuv/tuw_msgs/tuw_gazebo_msgs/msg/JointState.msg")
+set(tuw_gazebo_msgs_SERVICE_FILES "")

@@ -1,0 +1,8 @@
+prefix=/home/alvina/new_proj/devel
+
+Name: tuw_multi_robot_msgs
+Description: Description of tuw_multi_robot_msgs
+Version: 0.0.13
+Cflags: -I/home/alvina/new_proj/devel/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs nav_msgs std_msgs message_runtime

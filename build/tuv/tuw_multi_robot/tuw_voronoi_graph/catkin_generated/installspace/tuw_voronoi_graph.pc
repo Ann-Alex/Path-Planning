@@ -1,0 +1,8 @@
+prefix=/home/alvina/new_proj/install
+
+Name: tuw_voronoi_graph
+Description: Description of tuw_voronoi_graph
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: dynamic_reconfigure cv_bridge geometry_msgs nav_msgs roscpp tf tuw_multi_robot_msgs

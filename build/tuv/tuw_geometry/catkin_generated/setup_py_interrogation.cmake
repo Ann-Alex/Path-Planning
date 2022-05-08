@@ -1,0 +1,7 @@
+set(tuw_geometry_SETUP_PY_SETUP_MODULE "distutils.core")
+set(tuw_geometry_SETUP_PY_VERSION "0.0.3")
+set(tuw_geometry_SETUP_PY_SCRIPTS "")
+set(tuw_geometry_SETUP_PY_PACKAGES "tuw_geometry")
+set(tuw_geometry_SETUP_PY_PACKAGE_DIRS "src/tuw_geometry")
+set(tuw_geometry_SETUP_PY_MODULES "")
+set(tuw_geometry_SETUP_PY_MODULE_DIRS "")

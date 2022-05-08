@@ -1,0 +1,8 @@
+prefix=/home/alvina/new_proj/devel
+
+Name: tuw_geometry_msgs
+Description: Description of tuw_geometry_msgs
+Version: 0.0.13
+Cflags: -I/home/alvina/new_proj/devel/include -I/home/alvina/new_proj/src/tuv/tuw_msgs/tuw_geometry_msgs/include
+Libs: -L${prefix}/lib -ltuw_geometry_msgs
+Requires: message_runtime std_msgs geometry_msgs

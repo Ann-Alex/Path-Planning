@@ -1,0 +1,16 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~publish_routing_table" : \b [bool] On false it won't publish the routing table even a valid route was found min: False, default: True, max: True
+- \b "~voronoi_graph" : \b [bool] Defines if the generated Graph is a voronoi one (in doubt use false) min: False, default: True, max: True
+- \b "~priority_rescheduling" : \b [bool] Defines if priority rescheduling is used min: False, default: True, max: True
+- \b "~speed_rescheduling" : \b [bool] Defines if speed rescheduling is used min: False, default: True, max: True
+- \b "~router_time_limit_s" : \b [double] Sets the upper limit for a planning approach. (router time is not overall time) min: 0.1, default: 10.0, max: 300.0
+- \b "~topic_timeout_s" : \b [double] Sets the timeout for deleting latched topics min: 0.1, default: 10.0, max: 300.0
+- \b "~path_endpoint_optimization" : \b [bool] optimizes the path (only possible for 1 robot) min: False, default: False, max: True
+- \b "~collision_resolver" : \b [int] The used collision resolver for the multi robot planner min: 0, default: 2, max: 2
+- \b "~goal_mode" : \b [int] The endpoint mode min: 0, default: 1, max: 2
+- \b "~router_type" : \b [int] Router Type min: 0, default: 0, max: 1
+- \b "~nr_threads" : \b [int] sets the number of threads for the selected router min: 1, default: 1, max: 64
+

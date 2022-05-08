@@ -1,0 +1,34 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/alvina/new_proj/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/alvina/new_proj/src/turtlebot3/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/alvina/new_proj/src/turtlebot3/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/alvina/new_proj/src/turtlebot3/turtlebot3/turtlebot3_slam/include/**",
+        "/home/alvina/new_proj/src/tuv/tuw_geometry/include/**",
+        "/home/alvina/new_proj/src/tuv/tuw_msgs/tuw_geometry_msgs/include/**",
+        "/home/alvina/new_proj/src/tuv/tuw_multi_robot/tuw_multi_robot_ctrl/include/**",
+        "/home/alvina/new_proj/src/tuv/tuw_multi_robot/tuw_multi_robot_goal_generator/include/**",
+        "/home/alvina/new_proj/src/tuv/tuw_multi_robot/tuw_multi_robot_local_behavior_controller/include/**",
+        "/home/alvina/new_proj/src/tuv/tuw_multi_robot/tuw_multi_robot_router/include/**",
+        "/home/alvina/new_proj/src/tuv/tuw_multi_robot/tuw_multi_robot_rviz/include/**",
+        "/home/alvina/new_proj/src/tuv/tuw_msgs/tuw_nav_msgs/include/**",
+        "/home/alvina/new_proj/src/tuv/tuw_msgs/tuw_vehicle_msgs/include/**",
+        "/home/alvina/new_proj/src/tuv/tuw_multi_robot/tuw_voronoi_graph/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

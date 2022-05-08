@@ -1,0 +1,8 @@
+prefix=/home/alvina/new_proj/install
+
+Name: tuw_multi_robot_router
+Description: Description of tuw_multi_robot_router
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: dynamic_reconfigure geometry_msgs nav_msgs roscpp tf tuw_multi_robot_msgs tuw_voronoi_graph

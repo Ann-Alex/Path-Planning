@@ -1,0 +1,8 @@
+prefix=/home/alvina/new_proj/install
+
+Name: tuw_multi_robot_local_behavior_controller
+Description: Description of tuw_multi_robot_local_behavior_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs nav_msgs roscpp tuw_multi_robot_msgs

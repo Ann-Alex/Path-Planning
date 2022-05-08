@@ -1,0 +1,17 @@
+\subsubsection usage Usage
+\verbatim
+<node name="tuw_multi_robot_router" pkg="tuw_multi_robot_router" type="tuw_multi_robot_router">
+  <param name="publish_routing_table" type="bool" value="True" />
+  <param name="voronoi_graph" type="bool" value="True" />
+  <param name="priority_rescheduling" type="bool" value="True" />
+  <param name="speed_rescheduling" type="bool" value="True" />
+  <param name="router_time_limit_s" type="double" value="10.0" />
+  <param name="topic_timeout_s" type="double" value="10.0" />
+  <param name="path_endpoint_optimization" type="bool" value="False" />
+  <param name="collision_resolver" type="int" value="2" />
+  <param name="goal_mode" type="int" value="1" />
+  <param name="router_type" type="int" value="0" />
+  <param name="nr_threads" type="int" value="1" />
+</node>
+\endverbatim
+

@@ -1,0 +1,38 @@
+# CMake generated Testfile for 
+# Source directory: /home/alvina/new_proj/src
+# Build directory: /home/alvina/new_proj/build
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+subdirs("gtest")
+subdirs("turtlebot3/turtlebot3/turtlebot3")
+subdirs("turtlebot3/turtlebot3_msgs")
+subdirs("turtlebot3/turtlebot3/turtlebot3_navigation")
+subdirs("turtlebot3/turtlebot3_simulations/turtlebot3_simulations")
+subdirs("tuv/tuw_msgs/tuw_airskin_msgs")
+subdirs("tuv/tuw_msgs/tuw_msgs")
+subdirs("tuv/tuw_multi_robot/tuw_multi_robot")
+subdirs("tuv/tuw_multi_robot/tuw_multi_robot_demo")
+subdirs("tuv/tuw_msgs/tuw_multi_robot_msgs")
+subdirs("tuv/tuw_msgs/tuw_object_msgs")
+subdirs("turtlebot3/turtlebot3/turtlebot3_bringup")
+subdirs("turtlebot3/turtlebot3/turtlebot3_example")
+subdirs("turtlebot3/turtlebot3_simulations/turtlebot3_fake")
+subdirs("turtlebot3/turtlebot3_simulations/turtlebot3_gazebo")
+subdirs("turtlebot3/turtlebot3/turtlebot3_slam")
+subdirs("turtlebot3/turtlebot3/turtlebot3_teleop")
+subdirs("tuv/tuw_msgs/tuw_gazebo_msgs")
+subdirs("tuv/tuw_geometry")
+subdirs("tuv/tuw_msgs/tuw_geometry_msgs")
+subdirs("tuv/tuw_msgs/tuw_local_controller_msgs")
+subdirs("tuv/tuw_multi_robot/tuw_multi_robot_goal_generator")
+subdirs("tuv/tuw_msgs/tuw_nav_msgs")
+subdirs("tuv/tuw_multi_robot/tuw_multi_robot_ctrl")
+subdirs("tuv/tuw_multi_robot/tuw_multi_robot_local_behavior_controller")
+subdirs("tuv/tuw_msgs/tuw_vehicle_msgs")
+subdirs("tuv/tuw_multi_robot/tuw_voronoi_graph")
+subdirs("tuv/tuw_multi_robot/tuw_multi_robot_router")
+subdirs("tuv/tuw_msgs/tuw_waypoint_to_spline_msgs")
+subdirs("tuv/tuw_multi_robot/tuw_multi_robot_rviz")
+subdirs("RRT_Project_2")
+subdirs("turtlebot3/turtlebot3/turtlebot3_description")

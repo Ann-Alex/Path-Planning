@@ -1,0 +1,8 @@
+prefix=/home/alvina/new_proj/install
+
+Name: tuw_multi_robot_rviz
+Description: Description of tuw_multi_robot_rviz
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rviz nav_msgs tuw_multi_robot_msgs
